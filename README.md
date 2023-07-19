@@ -30,3 +30,11 @@
 > You guessed: 39
 > You win!
 ```
+
+### 😁 0x03 hello jack
+> 打招呼
+```rust
+> What is your name?
+> jack
+> Hello, jack! Nice to meet you.
+```
