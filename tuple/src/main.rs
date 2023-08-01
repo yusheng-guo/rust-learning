@@ -29,19 +29,25 @@ fn main() {
     //     println!("{}", char)
     // }
 
-    let s4 = "Random string.";
-    let mut s5 = s4.to_string();
-    println!("s5: {}", s5);
-    let _byte_arr = s5.as_bytes();
-    let s6 = &s5[0..6];
-    println!("String length: {}", s6.len());
-    s5.clear();
-    println!("s5: {}", s5);
-    // 字符串和并
-    let s7 = String::from("Just some");
-    let s8 = String::from(" words");
-    let s9 = s7 + &s8;
-    for char in s9.bytes(){
-        println!("{}", char);
-    }
+    // let s4 = "Random string.";
+    // let mut s5 = s4.to_string();
+    // println!("s5: {}", s5);
+    // let _byte_arr = s5.as_bytes();
+    // let s6 = &s5[0..6];
+    // println!("String length: {}", s6.len());
+    // s5.clear();
+    // println!("s5: {}", s5);
+    // // 字符串和并
+    // let s7 = String::from("Just some");
+    // let s8 = String::from(" words");
+    // let s9 = s7 + &s8;
+    // for char in s9.bytes(){
+    //     println!("{}", char);
+    // }
+
+    // casting 类型转换
+    // let i1: u8 = 11;
+    // let i2: u8 = 17;
+    // let i3: u32 = (i1 as u32) + (i2 as u32);
+    // println!("{}", i3);
 }

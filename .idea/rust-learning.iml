@@ -7,6 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/tuple/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/identifier/target" />
       <excludeFolder url="file://$MODULE_DIR$/tuple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/array/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/array/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/condition/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/condition/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/enum_learn/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_jack/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/hello_jack/target/debug/examples" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
