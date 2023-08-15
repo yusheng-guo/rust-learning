@@ -1,4 +1,4 @@
-use std::cmp::Ordering;
+// use std::cmp::Ordering;
 
 fn main() {
     // 1.if else if else 三元运算符
