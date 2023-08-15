@@ -19,7 +19,7 @@
 fn main() {
     let s = String::from("hello");  // s 进入作用域
 
-    takes_ownership(s);             // s 的值移动到函数里 ...
+    takes_ownership(s.clone());             // s 的值移动到函数里 ...
     // ... 所以到这里不再有效
 
     let x = 5;                      // x 进入作用域
