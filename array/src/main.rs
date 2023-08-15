@@ -6,7 +6,7 @@ fn main() {
     println!("len(arr) => {}", arr.len());
 
     // loop
-    let mut idx = 0;
+    let mut _idx = 0;
     // loop {
     //     if idx >= 9 {
     //         break;
